@@ -1,0 +1,66 @@
+.brand-logo , h2{
+
+    font-family: 'Grand Hotel', cursive;
+}
+
+
+
+.auth-card{
+
+    width: 400px;
+    padding: 20px;
+    text-align: center;
+    margin: 50px auto !important;
+}
+.signIn_btn{
+
+    background-color :#1565c0 !important;
+}
+
+.main_container_profile{
+
+    display: flex;
+    justify-content: space-around;
+    margin: 40px 0px;
+}
+.post_followers{
+    display: flex;
+    justify-content: space-around;
+    width: 580px;
+}
+/* .main_follower{
+    width: 980px ;
+} */
+
+.gallery{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.items{
+    height: 30%;
+    width: 30%;
+    
+}
+
+.home-card{
+
+    width: 500px;
+    height: max-content;
+    margin: 26px auto;
+  /* //  mask-image: linear-gradient(to bottom , rgba(0,0,0.3) , rgba(0,0,0,0)) ; */
+
+}
+.material-icons{
+
+    color: red !important;
+}
+
+.input-filed{
+
+    width: 40%;
+    margin: 60px auto;
+    padding: 20px;
+
+
+}
